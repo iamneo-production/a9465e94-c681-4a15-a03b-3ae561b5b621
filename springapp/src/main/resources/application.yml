@@ -1,0 +1,9 @@
+spring:
+    datasource:
+        driverClassName: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/abacus_db
+        username: root
+        password: Friday@21
+    jpa:
+        generate-ddl: true
+        show-sql: true
