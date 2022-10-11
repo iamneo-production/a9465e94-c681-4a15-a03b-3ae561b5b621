@@ -1,0 +1,66 @@
+.logoImage{
+    position : absolute ;
+    left: 2.5% ;
+}
+
+.errorStyle{
+    font-size : 13px ;
+     color : red ;
+}
+
+.inputStyle{
+    border-radius : 5px ;
+     width:200px ;
+      height : 25px
+}
+
+.textAreaStyle{
+    border-radius : 10px ;
+     width:350px ;
+      height : 50px
+}
+
+.navbarStyle{
+    display: flex ;
+    background-color: green;
+    width : 100% ;
+    height : 5% ;
+    justify-content: space-around ;
+    color: red;
+}
+
+.navbarLinkStyle{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    height : 100%
+}
+
+.loginBackgroundStyle{
+    position : absolute ;
+    width : 100%;
+    height : 100% ;
+    background-image : URL('https://c0.wallpaperflare.com/preview/135/67/741/academic-calculation-calculator-compute.jpg') ;
+    background-size : cover
+}
+
+.welcomeBackgroundStyle{
+    background-image : URL('https://t4.ftcdn.net/jpg/03/19/40/21/360_F_319402179_hpmeoOSrarYOFEMlJCeUZahM6AFogCVD.jpg') !important;
+
+} 
+
+.academyImageStyle{
+    
+    width : 25%;
+    height : 30% ;
+    background-image : URL('https://c0.wallpaperflare.com/preview/135/67/741/academic-calculation-calculator-compute.jpg') ;
+    background-size : cover ;
+    float : left ;
+    padding: 1%;
+    margin: 1%;
+
+}
+
+.tableStyles{
+    border: 1px solid black ;
+}
